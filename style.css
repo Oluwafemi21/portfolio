@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 
+html {
+  scroll-behavior: smooth;
+}
+
 body{
     overflow-x:hidden;
     font-family: 'Lato', sans-serif;
@@ -20,6 +24,7 @@ body{
 }
 
 /*----Navigation---*/
+
 .fixed-top  {
  -webkit-backface-visibility: hidden;
 }
