@@ -2,11 +2,9 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x : hidden;
 }
 
-*{
- overflow-x : hidden;
-}
 
 body{
     font-family: 'Lato', sans-serif;
